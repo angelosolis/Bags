@@ -1,0 +1,8 @@
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\bin\Debug\Exercise1-Bags.exe.config
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\bin\Debug\Exercise1-Bags.exe
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\bin\Debug\Exercise1-Bags.pdb
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\obj\Debug\Exercise1-Bags.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\obj\Debug\Exercise1-Bags.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\obj\Debug\Exercise1-Bags.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\obj\Debug\Exercise1-Bags.exe
+C:\Users\solis\source\repos\Exercise1-Bags\Exercise1-Bags\obj\Debug\Exercise1-Bags.pdb
